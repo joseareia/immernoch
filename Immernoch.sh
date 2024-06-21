@@ -41,7 +41,7 @@ EOF
 about() {
     echo -e "${GREEN}Immernoch - CoAP & MQTT Assistant - version $VERSION${RESET}"
     echo -e "${BROWN}Immernoch is a tool designed to assist users to manage their CoAP and MQTT servers.${RESET}"
-    echo -e "${BROWN}See https://github.com/ivoafonsobispo/IoMT-AI-IDS for more information."
+    echo -e "${BROWN}See https://github.com/joseareia/immernoch for more information."
 }
 
 if [[ ! -n "$1" ]]; then
