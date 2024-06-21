@@ -5,7 +5,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg)](https://github.com/joseareia/immernoch/graphs/commit-activity)
 
 ### Description
-Immernoch is a versatile tool for managing CoAP and MQTT servers, allowing for easy background operation and packet capture.
+Immernoch is a versatile tool for managing CoAP and MQTT servers, allowing for easy background operation and packet capture. It uses `Mosquitto` as the MQTT broker. For the CoAP server, a custom file was developed. It is available at `CoAP-Server/Server.py`. Modify it according to your needs.
 
 <p float="left">
   <img src="https://github.com/joseareia/immernoch/blob/master/Assets/Immernoch.png"/>
