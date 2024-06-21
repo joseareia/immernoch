@@ -120,7 +120,7 @@ if $start_servers; then
     export PID_MQTT
 
     # CoAP Server
-    nohup python3 -u coap-server/server.py >> "$coap_log" 2>&1 &
+    nohup python3 -u CoAP-Server/Server.py >> "$coap_log" 2>&1 &
     PID_COAP=$!
     export PID_COAP
 
