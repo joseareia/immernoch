@@ -1,7 +1,7 @@
 ## Immernoch: Manage your CoAP & MQTT Servers
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?color=green)](https://www.latex-project.org/)
 [![GitHub license](https://img.shields.io/badge/License-GPL_3.0-green.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text)
-[![Release](https://img.shields.io/badge/Release-v1.0.2-green.svg)](https://github.com/joseareia/immernoch/releases)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-green.svg)](https://github.com/joseareia/immernoch/releases)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg)](https://github.com/joseareia/immernoch/graphs/commit-activity)
 
 ### Description
